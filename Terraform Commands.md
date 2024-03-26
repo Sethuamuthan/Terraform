@@ -101,3 +101,6 @@ Terraform commands used on daily basis:
 
 34. terraform apply -var -file=filename.tfvars:
 - Specifies a file containing variable definitions.
+
+- ![image](https://github.com/Sethuamuthan/Terraform/assets/149596888/65cd087b-9628-45ee-a5dd-548109b8922b)
+
